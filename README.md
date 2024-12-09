@@ -113,17 +113,17 @@
 - 接口源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/gd/output/result.m3u
+https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/master/output/result.m3u
 ```
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/gd/output/result.txt
+https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/master/output/result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/gd/source.json
+https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/master/source.json
 ```
 
 ## 配置
