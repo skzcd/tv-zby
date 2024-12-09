@@ -113,17 +113,17 @@
 - Interface source:
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/master/output/result.m3u
 ```
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/master/output/result.txt
 ```
 
 - Data source:
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://ghp.ci/raw.githubusercontent.com/skzcd/tv-zby/master/output/result.json
 ```
 
 ## Config
