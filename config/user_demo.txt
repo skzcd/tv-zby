@@ -26,7 +26,7 @@ CHC家庭影院
 CHC高清电影
 CHC影迷电影
 
-📺CGTN（中国教育电视台）,#genre#
+📺CETV（中国教育电视台）,#genre#
 CETV1 教育综合
 CETV2 教育教学
 CETV3 北京地面
