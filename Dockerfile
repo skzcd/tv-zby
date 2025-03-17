@@ -63,6 +63,10 @@ COPY config /iptv-api-config
 
 COPY nginx.conf /etc/nginx/nginx.conf
 
+RUN mkdir -p /usr/local/nginx/html
+
+COPY stat.xsl /usr/local/nginx/html/stat.xsl
+
 RUN chmod +x /iptv-api-entrypoint.sh
 
 ENTRYPOINT /iptv-api-entrypoint.sh
