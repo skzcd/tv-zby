@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-19 06:42:35,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-19 18:42:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -415,7 +415,7 @@ CGTN-Documentary （CGTN纪录）,https://amg00405-rakutentv-cgtndocumentary-rak
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD
 贵州卫视,http://goo.bkpcp.top/mg/gzws
-贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
+贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls
 贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8?
@@ -1569,6 +1569,7 @@ NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/10000000040
 NewTV精品大剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=YanG-1989
 NewTV精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTV精品记录,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=YanG-1989
+NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 NewTV精品萌宠,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
 NewTV军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
 NewTV军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
@@ -1663,14 +1664,18 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_梁家辉,https://live.metshop.top/huya/11342429
 电影_斯坦森,https://www.goodiptv.club/huya/21059588
 电影_斯坦森,http://cfss.cc/cdn/hy/21059588.flv
+电影_斯坦森,https://live.metshop.top/huya/21059588
 电影_八点档,https://www.goodiptv.club/huya/880261
 电影_八点档,http://cfss.cc/cdn/hy/880261.flv
+电影_八点档,https://live.metshop.top/huya/880261
 电影_蜘蛛侠,https://www.goodiptv.club/huya/21059599
 电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
 电影_贺岁片,https://www.goodiptv.club/huya/11601986
 电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
 电影_功夫片,https://www.goodiptv.club/huya/11352941
 电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
+电影_功夫片,https://live.metshop.top/huya/11352941
 电影_黑帮片,https://www.goodiptv.club/huya/11336719
 电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
 电影_丧尸片,https://live.iill.top/huya/21059578
@@ -1689,6 +1694,7 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_犯罪片,https://www.goodiptv.club/huya/11352974
 电影_犯罪片,https://live.metshop.top/huya/11352974
 电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
+电影_犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
 电影_古装片,https://www.goodiptv.club/huya/11336590
 电影_古装片,https://live.metshop.top/huya/11336590
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
@@ -1727,6 +1733,7 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_经典港片,https://live.metshop.top/huya/11352965
 电影_镖行天下,https://www.goodiptv.club/huya/11352969
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
+电影_镖行天下,https://live.metshop.top/huya/11352969
 电影_高能反转,https://www.goodiptv.club/huya/11352887
 电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
 电影_喜乐影院,https://live.iill.top/huya/21059580
@@ -1887,8 +1894,8 @@ NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 七龙珠,https://live.iill.top/huya/11601966
 火影忍者,http://live.iill.top/douyu.php?id=1997723
@@ -2195,6 +2202,7 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 睛彩篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 睛彩篮球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
+睛彩篮球,http://13937899.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
