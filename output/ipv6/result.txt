@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-21 06:42:11,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-22 06:43:35,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -414,7 +414,7 @@ CGTN-Documentary （CGTN纪录）,https://amg00405-rakutentv-cgtndocumentary-rak
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
 贵州卫视,http://j.x.bkpcp.top/jx/GUIZHD
 贵州卫视,http://goo.bkpcp.top/mg/gzws
-贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225728/2/index.m3u8
+贵州卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225483/index.m3u8?fmt=ts2hls
 贵州卫视,http://[2409:8087:1a01:df::4030]:80/TVOD/88888888/224/3221225974/main.m3u8
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8?
@@ -1209,6 +1209,7 @@ CGTN-Documentary （CGTN纪录）,https://amg00405-rakutentv-cgtndocumentary-rak
 
 ☘️广西频道,#genre#
 南宁新闻综合,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
+南宁新闻综合,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
@@ -1281,6 +1282,7 @@ CGTN-Documentary （CGTN纪录）,https://amg00405-rakutentv-cgtndocumentary-rak
 厦门卫视,http://[2409:8087:74F1:0021::0008]/270000001128/9900000058/index.m3u8
 厦门卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000058
 厦门卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000058/index.m3u8
+厦门卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
@@ -1649,8 +1651,10 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_八点档,http://cfss.cc/cdn/hy/880261.flv
 电影_蜘蛛侠,https://www.goodiptv.club/huya/21059599
 电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
+电影_蜘蛛侠,https://live.metshop.top/huya/21059599
 电影_贺岁片,https://www.goodiptv.club/huya/11601986
 电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
+电影_贺岁片,https://live.metshop.top/huya/11601986
 电影_功夫片,https://www.goodiptv.club/huya/11352941
 电影_功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
@@ -1673,6 +1677,7 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
 电影_古装片,https://www.goodiptv.club/huya/11336590
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
+电影_古装片,https://live.metshop.top/huya/11336590
 电影_高分动作,https://www.goodiptv.club/huya/11352884
 电影_高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 电影_高分动作,http://cfss.cc/cdn/hy/11352884.flv
@@ -1808,7 +1813,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 天映经典,http://go1.bkpcp.top/tl/null-1
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://go1.bkpcp.top/tl/null-7
-无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 星空卫视,http://quan2018.mycloudnas.com:51888/play/a016/index.m3u8
 东森电影,http://go1.bkpcp.top/tl/null-11
 
@@ -1973,7 +1978,7 @@ TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 翡翠台(字幕版),http://cdn.163189.xyz/live/fct4k/stream.m3u8
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://go1.bkpcp.top/tl/null-7
-无线星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -2159,6 +2164,7 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 睛彩篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 睛彩篮球,http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
+睛彩篮球,http://13937899.xyz:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
