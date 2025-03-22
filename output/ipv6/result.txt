@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-22 06:43:35,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-23 06:41:39,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1655,6 +1655,7 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_贺岁片,https://www.goodiptv.club/huya/11601986
 电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
 电影_贺岁片,https://live.metshop.top/huya/11601986
+电影_贺岁片,http://cdn.jdshipin.com:8880/huya.php?id=11601986
 电影_功夫片,https://www.goodiptv.club/huya/11352941
 电影_功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
@@ -1667,6 +1668,7 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
 电影_谍战片,https://www.goodiptv.club/huya/21059587
 电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
+电影_谍战片,https://live.metshop.top/huya/21059587
 电影_战争片,https://live.iill.top/huya/21059574
 电影_战争片,https://www.goodiptv.club/huya/21059574
 电影_战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
@@ -1700,10 +1702,12 @@ NewTV中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/20000000030
 电影_快意江湖,http://cfss.cc/cdn/hy/11342435.flv
 电影_黑帮斗争,https://www.goodiptv.club/huya/11342419
 电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
+电影_黑帮斗争,https://live.metshop.top/huya/11342419
 电影_嫣然影厅,https://www.goodiptv.club/huya/11601977
 电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
 电影_经典港片,https://www.goodiptv.club/huya/11352965
 电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
+电影_经典港片,https://live.metshop.top/huya/11352965
 电影_镖行天下,https://www.goodiptv.club/huya/11352969
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
 电影_高能反转,https://www.goodiptv.club/huya/11352887
