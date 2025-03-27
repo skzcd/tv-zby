@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-27 06:37:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-27 18:45:23,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1806,6 +1806,7 @@ SiTV游戏风云,http://yc.myds.me:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 电影_经典港片,https://live.metshop.top/huya/11352965
 电影_镖行天下,https://www.goodiptv.club/huya/11352969
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
+电影_镖行天下,https://live.metshop.top/huya/11352969
 电影_高能反转,https://www.goodiptv.club/huya/11352887
 电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
 电影_喜乐影院,https://live.iill.top/huya/21059580
