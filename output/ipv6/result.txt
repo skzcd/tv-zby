@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-03-28 06:46:36,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-03-28 18:39:34,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1733,6 +1733,7 @@ SiTV游戏风云,http://yc.myds.me:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 电影_八点档,https://www.goodiptv.club/huya/880261
 电影_八点档,http://live.metshop.top/huya/880261?cdn=alicdn
 电影_八点档,http://cfss.cc/cdn/hy/880261.flv
+电影_八点档,https://live.metshop.top/huya/880261
 电影_蜘蛛侠,https://www.goodiptv.club/huya/21059599
 电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
 电影_蜘蛛侠,https://live.metshop.top/huya/21059599
@@ -1752,6 +1753,7 @@ SiTV游戏风云,http://yc.myds.me:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 电影_丧尸片,https://www.goodiptv.club/huya//21059578
 电影_丧尸片,http://cfss.cc/cdn/hy//21059578.flv
 电影_丧尸片,https://live.metshop.top/huya/21059578
+电影_丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影_灾难片,https://www.goodiptv.club/huya/11602075
 电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
 电影_谍战片,https://www.goodiptv.club/huya/21059587
@@ -1780,6 +1782,7 @@ SiTV游戏风云,http://yc.myds.me:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 电影_搞笑喜剧,https://www.goodiptv.club/huya/11342423
 电影_搞笑喜剧,http://cfss.cc/cdn/hy/11342423.flv
 电影_搞笑喜剧,https://live.metshop.top/huya/11342423
+电影_搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
 电影_喜剧专场,http://cdn.jdshipin.com:8880/huya.php?id=11602044
 电影_喜剧专场,https://www.goodiptv.club/huya/11602044
 电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
@@ -1973,8 +1976,8 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 七龙珠,https://live.iill.top/huya/11601966
 火影忍者,https://live.iill.top/douyu/1997723
