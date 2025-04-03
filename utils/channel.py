@@ -81,10 +81,10 @@ def get_channel_data_from_file(channels, file, whitelist, open_local=config.open
                 if name in whitelist:
                     for whitelist_url in whitelist[name]:
                         category_dict[name].append(format_channel_data(whitelist_url, "whitelist"))
-                if name in live_data:
+                if live_data and name in live_data:
                     for live_url in live_data[name]:
                         category_dict[name].append(format_channel_data(live_url, "live"))
-                if name in hls_data:
+                if hls_data and name in hls_data:
                     for hls_url in hls_data[name]:
                         category_dict[name].append(format_channel_data(hls_url, "hls"))
                 if open_local:
