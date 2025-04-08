@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-07 18:40:04,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-04-08 18:42:14,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -635,6 +635,7 @@ CGTN-Documentary （CGTN纪录）,http://yc.myds.me:35455/gaoma/cgtndoc.m3u8
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 三沙卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 三沙卫视,https://tv.bfsu.edu.cn/hls/sshd.m3u8
+三沙卫视,https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=626783981743357501
 山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066
 山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
 山东卫视,http://j.x.bkpcp.top/jx/SHANDHD
@@ -1051,6 +1052,7 @@ CGTN-Documentary （CGTN纪录）,http://yc.myds.me:35455/gaoma/cgtndoc.m3u8
 北京新闻,http://webmail.axxe.top:4022/udp/239.3.1.159:8000
 北京新闻,http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8
 北京新闻,http://ikuai.zlsip.top:4022/rtp/239.3.1.159:8000
+北京新闻,http://nas.suntao.online:35455/bptv/10000100000000050000000003870780.m3u8
 北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
 北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
 北京生活,http://webmail.axxe.top:4022/udp/239.3.1.117:8000
@@ -1079,6 +1081,7 @@ CGTN-Documentary （CGTN纪录）,http://yc.myds.me:35455/gaoma/cgtndoc.m3u8
 上海都市,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
+上海都市,http://nas.suntao.online:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 东方影视,http://gat.bkpcp.top/ymg.php?id=shys
@@ -1103,9 +1106,11 @@ CGTN-Documentary （CGTN纪录）,http://yc.myds.me:35455/gaoma/cgtndoc.m3u8
 哈哈炫动,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://yc.myds.me:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+哈哈炫动,http://nas.suntao.online:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=b4a3e55048f55ec1c8fc5b509fbdf32f2dc5d255f5f218e79e84ca9a87fb9f2239927cb11b448f18285b50b81b4cd50a1354e9be5a3283375e85372798c3f3eb3ad60adf45eb5615f68eb4825f
 新闻综合,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 新闻综合,http://yc.myds.me:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+新闻综合,http://nas.suntao.online:35455/itv/5000000011000031110.m3u8?cdn=bestzb
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
@@ -1122,6 +1127,7 @@ CGTN-Documentary （CGTN纪录）,http://yc.myds.me:35455/gaoma/cgtndoc.m3u8
 第一财经,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 第一财经,http://z.b.bkpcp.top/m.php?id=dycj
+第一财经,http://nas.suntao.online:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 纪实人文,http://yc.myds.me:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 都市剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8
 
@@ -1239,6 +1245,7 @@ CGTN-Documentary （CGTN纪录）,http://yc.myds.me:35455/gaoma/cgtndoc.m3u8
 金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
 金鹰纪实,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-7.m3u8
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
+湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
 
 ☘️湖北频道,#genre#
@@ -1971,6 +1978,7 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN63807
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&GuardEncType=2&from=6&popid=6&hms_devid=3729&prioritypopid=6&vqe=3
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
+淘电影,http://nas.suntao.online:35455/bptv/10000100000000050000000003887498.m3u8
 NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010077
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
@@ -2017,6 +2025,7 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 卡酷少儿,http://yc.myds.me:35455/itv/5000000011000265008.m3u8?cdn=bestzb
 卡酷少儿,https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
+卡酷少儿,http://nas.suntao.online:35455/itv/5000000011000265008.m3u8?cdn=bestzb
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
@@ -2073,6 +2082,7 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://cfss.cc/api/yy/1351814644.m3u8
+鹿鼎记,http://luobo.bkpcp.top/yy/1382704650
 三国演义,https://live.iill.top/huya/11602081
 三国演义,https://live.metshop.top/huya/11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
@@ -2086,21 +2096,28 @@ NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ysten
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 射雕英雄传,http://cfss.cc/api/yy/1354210357.m3u8
 爱情公寓,https://live.iill.top/huya/11336726
+白鹿原,http://luobo.bkpcp.top/yy/1354931488
 父母爱情,http://cdn.jdshipin.com:8880/huya.php?id=11602071
 花千骨,https://www.goodiptv.club/yy/1354943110
+欢乐颂,http://luobo.bkpcp.top/yy/1382735624
 狂飙,https://www.goodiptv.club/yy/14072363
 情满四合院,https://www.goodiptv.club/yy/1382736888
+情满四合院,http://luobo.bkpcp.top/yy/1382736848
 神雕侠侣,https://live.iill.top/huya/11352964
 神雕侠侣,http://cfss.cc/api/yy/1351762426.m3u8
+神雕侠侣,http://luobo.bkpcp.top/yy/1382704651
 神探狄仁杰2,https://live.iill.top/huya/11342425
 神医喜来乐,http://cdn.jdshipin.com:8880/huya.php?id=11601978
 陀枪师姐,https://live.iill.top/huya/23860039
 伪装者,https://www.goodiptv.club/yy/1354936244
+伪装者,http://luobo.bkpcp.top/yy/1354936244
 我的前半生,https://www.goodiptv.club/yy/1382735564
 武林外传,http://cdn.jdshipin.com:8880/huya.php?id=21059598
+雪中悍刀行,http://luobo.bkpcp.top/yy/1382660835
 倚天屠龙记,https://live.iill.top/huya/23734246
 雍正王朝,http://cdn.jdshipin.com:8880/huya.php?id=11342439
 雍正王朝,http://cfss.cc/cdn/hy/11342439.m3u8
+雍正王朝,http://luobo.bkpcp.top/yy/1356043620
 新水浒传,https://live.iill.top/huya/11342384
 
 🌊港·澳,#genre#
