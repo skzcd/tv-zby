@@ -3,24 +3,24 @@
 # This is the alias list for channel names, used to map multiple names to a single name when fetching from the interface, improving the fetch volume and accuracy.
 # Format: TemplateChannelName,Alias1,Alias2,Alias3
 
-CCTV-1,CCTV1综合,CCTV-1 综合,CCTV1,CCTV 1,CCTV综合,CCTV_1
-CCTV-2,CCTV2财经,CCTV-2 财经,CCTV2,CCTV 2,CCTV财经,CCTV_2
-CCTV-3,CCTV3综艺,CCTV-3 综艺,CCTV3,CCTV 3,CCTV综艺,CCTV_3
-CCTV-4,CCTV4中文国际,CCTV-4 中文国际,CCTV4,CCTV 4,CCTV中文国际,CCTV_4
-CCTV-5,CCTV5体育,CCTV-5 体育,CCTV5,CCTV 5,CCTV_5
-CCTV-5+,CCTV5+体育,CCTV5+体育赛事,CCTV-5+ 体育赛事,CCTV5+,CCTV 5+,CCTV_5+
-CCTV-6,CCTV6电影,CCTV-6 电影,CCTV6,CCTV 6,CCTV电影,CCTV_6
-CCTV-7,CCTV7军事,CCTV7农业,CCTV7军事农业,CCTV7军农,CCTV7国防军事,CCTV-7 国防军事,CCTV7,CCTV 7,CCTV农业,CCTV_7
-CCTV-8,CCTV8电视剧,CCTV-8 电视剧,CCTV8,CCTV 8,CCTV电视剧,CCTV_8
-CCTV-9,CCTV9纪录,CCTV-9 纪录,CCTV9,CCTV 9,CCTV记录,CCTV_9
-CCTV-10,CCTV10科教,CCTV-10 科教,CCTV10,CCTV 10,CCTV科教,CCTV_10
-CCTV-11,CCTV11戏曲,CCTV-11 戏曲,CCTV11,CCTV 11,CCTV戏曲,CCTV_11
-CCTV-12,CCTV12社会与法,CCTV-12 社会与法,CCTV12,CCTV 12,CCTV社会与法,CCTV_12
-CCTV-13,CCTV13新闻,CCTV新闻,CCTV-13 新闻,CCTV13,CCTV 13,CCTV新闻,CCTV_13
-CCTV-14,CCTV14少儿,CCTV-14 少儿,CCTV14,CCTV 14,CCTV少儿,CCTV_14
-CCTV-15,CCTV15音乐,CCTV-15 音乐,CCTV15,CCTV 15,CCTV音乐,CCTV_15
-CCTV-16,CCTV16体育赛事,CCTV16奥林匹克,CCTV-16 奥林匹克,CCTV16,CCTV 16,CCTV奥林匹克,CCTV_16
-CCTV-17,CCTV17农业农村,CCTV17农业,CCTV-17 农业农村,CCTV17,CCTV 17,CCTV农业农村,CCTV_17
+CCTV-1 综合,CCTV-1,CCTV1综合,CCTV1,CCTV 1,CCTV综合,CCTV_1
+CCTV-2 财经,CCTV-2,CCTV2财经,CCTV2,CCTV 2,CCTV财经,CCTV_2
+CCTV-3 综艺,CCTV-3,CCTV3综艺,CCTV3,CCTV 3,CCTV综艺,CCTV_3
+CCTV-4 中文国际,CCTV-4,CCTV4中文国际,CCTV4,CCTV 4,CCTV中文国际,CCTV_4
+CCTV-5 体育,CCTV-5,CCTV5体育,CCTV5,CCTV 5,CCTV_5
+CCTV-5+ 体育赛事,CCTV-5+,CCTV5+体育,CCTV5+体育赛事,CCTV5+,CCTV 5+,CCTV_5+
+CCTV-6 电影,CCTV-6,CCTV6电影,CCTV6,CCTV 6,CCTV电影,CCTV_6
+CCTV-7 国防军事,CCTV-7,CCTV7军事,CCTV7农业,CCTV7军事农业,CCTV7军农,CCTV7国防军事,CCTV7,CCTV 7,CCTV农业,CCTV_7
+CCTV-8 电视剧,CCTV-8,CCTV8电视剧,CCTV8,CCTV 8,CCTV电视剧,CCTV_8
+CCTV-9 纪录,CCTV-9,CCTV9纪录,CCTV9,CCTV 9,CCTV记录,CCTV_9
+CCTV-10 科教,CCTV-10,CCTV10科教,CCTV10,CCTV 10,CCTV科教,CCTV_10
+CCTV-11 戏曲,CCTV-11,CCTV11戏曲,CCTV11,CCTV 11,CCTV戏曲,CCTV_11
+CCTV-12 社会与法,CCTV-12,CCTV12社会与法,CCTV12,CCTV 12,CCTV社会与法,CCTV_12
+CCTV-13 新闻,CCTV-13,CCTV13新闻,CCTV新闻,CCTV13,CCTV 13,CCTV新闻,CCTV_13
+CCTV-14 少儿,CCTV-14,CCTV14少儿,CCTV14,CCTV 14,CCTV少儿,CCTV_14
+CCTV-15 音乐,CCTV-15,CCTV15音乐,CCTV15,CCTV 15,CCTV音乐,CCTV_15
+CCTV-16 奥林匹克,CCTV-16,CCTV16体育赛事,CCTV16奥林匹克,CCTV16,CCTV 16,CCTV奥林匹克,CCTV_16
+CCTV-17 农业农村,CCTV-17,CCTV17农业农村,CCTV17农业,CCTV17,CCTV 17,CCTV农业农村,CCTV_17
 
 CCTV-中学生,CCTV中学生,CCTV_中学生
 CCTV-发现之旅,CCTV发现之旅,CCTV_发现之旅
@@ -61,21 +61,26 @@ CGTN-Africa（CGTN非洲）,CGTN-Africa,CGTNAfrica,CGTN 非洲,CGTN非洲,CGTN_A
 CGTN-America（CGTN北美）,CGTN-America,CGTNAmerica,CGTN 北美,CGTN北美,CGTN_America,CGTN_北美
 CGTN-Europe（CGTN欧洲）,CGTN-Europe,CGTNEurope,CGTN 欧洲,CGTN欧洲,CGTN_Europe,CGTN_欧洲
 
-河南新闻频道,河南新闻
-河南都市频道,河南都市
-河南民生频道,河南民生
-河南法治频道,河南法治
-河南公共频道,河南公共
-河南乡村频道,河南乡村
-河南电视剧频道,河南电视剧
-河南梨园频道,河南梨园
-河南文物宝库,河南文物,河南文物宝
-河南武术频道,河南武术
-河南睛彩中原,睛彩中原
-河南移动戏曲频道,河南戏曲,移动戏曲
-河南象视界,象视界
-河南国学频道,河南国学
-河南欢腾购物,欢腾购物
+北京卫视（BTV-1）,北京卫视,BTV-1
+东方卫视（上海卫视）,东方卫视,上海卫视
+东南卫视（福建卫视）,东南卫视,福建卫视
+海南卫视（旅游卫视）,海南卫视,旅游卫视
+
+河南新闻频道,河南新闻,HNXW
+河南都市频道,河南都市,HNDS
+河南民生频道,河南民生,HNMS
+河南法治频道,河南法治,HNFZ
+河南公共频道,河南公共,HNGG
+河南乡村频道,河南乡村,HNXC
+河南电视剧频道,河南电视剧,HNDSJ
+河南梨园频道,河南梨园,HNLY
+河南文物宝库,河南文物,河南文物宝,HNWWBK
+河南武术频道,河南武术,HNWS
+河南睛彩中原,睛彩中原,HNJCZY
+河南移动戏曲频道,河南戏曲,移动戏曲,HNYDXQ
+河南象视界,象视界,HNXSJ
+河南国学频道,河南国学,HNGX
+河南欢腾购物,欢腾购物,HNHTGW
 
 咪咕直播1,咪咕直播 𝟙
 咪咕直播2,咪咕直播 𝟚
