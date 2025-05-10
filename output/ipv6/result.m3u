@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/skzcd/tv-zby/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-05-10 18:15:13
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-05-11 06:13:57
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -585,8 +585,6 @@ http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 tvg-name="CGTN 国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN 国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-name="CGTN 国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CGTN 国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN 国际.png" group-title="📺CGTN（中国国际电视台）",CGTN 国际
@@ -2551,8 +2549,6 @@ http://cdn5.1678520.xyz/live/?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳",凤凰中文
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳",凤凰中文
 http://php.17186.eu.org/phtv/fhzw.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳",凤凰中文
