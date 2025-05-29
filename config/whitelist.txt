@@ -6,3 +6,6 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/ipv6/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/skzcd/output/main/result.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.txt
