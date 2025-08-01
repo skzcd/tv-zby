@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-31 21:40:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-01 13:15:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1 综合,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -617,10 +617,6 @@ CGTN 国际,https://0472.org/hls/cgtn.m3u8
 浙江新闻,http://101.66.198.39:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江新闻,http://101.66.195.233:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-杭州综合,http://goo.bkpcp.top/mg/hzzh
-杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-4.ctv
-杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv
-杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
 杭州明珠,http://goo.bkpcp.top/mg/hzmz
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-4.m3u8
@@ -685,6 +681,7 @@ CGTN 国际,https://0472.org/hls/cgtn.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed,
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed&quot;
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
@@ -1160,6 +1157,7 @@ CGTN 国际,https://0472.org/hls/cgtn.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 沐川综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
@@ -1712,6 +1710,7 @@ CGTN 国际,https://0472.org/hls/cgtn.m3u8
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
@@ -2536,6 +2535,7 @@ NewTV惊悚悬疑,http://yc.myds.me:35455/itv/1000000004000024282.m3u8?cdn=ysten
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 明珠台,http://php.jdshipin.com:8880/iptv.php?id=mzt
 TVB翡翠,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -2545,6 +2545,7 @@ TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
@@ -2657,7 +2658,6 @@ tvbs新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 
 🎥咪咕直播,#genre#
 咪咕直播1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
