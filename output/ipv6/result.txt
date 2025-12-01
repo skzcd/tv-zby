@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-01 06:44:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-01 18:52:57,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1010,6 +1010,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北京生活,https://migu.188766.xyz/?migutoken=85c08b2c84bf3985de537be307c122b0&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=cad5738021645e51d2dc32367b63a4e4&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=ab2b58c82a35b9f42b58bbeafe27b735&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+北京生活,https://migu.188766.xyz/?migutoken=c82648b34b1cbf1deee18d01647a242b&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
 北京财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
 北京财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8
@@ -1018,6 +1019,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北京财经,https://migu.188766.xyz/?migutoken=c8b48496440622b303fe7d3620f1352a&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=13559808fdc6f67b730a14f091c6d4df&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=d741c8c41ef6dd6d378642fd13a0ce58&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=7a8b673cd0b1ea8644909d2fecc63ff9&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 
 ☘️上海频道,#genre#
 七彩戏剧,http://php.jdshipin.com/itv6s.php?cid=bestzb&id=5000000011000031116
@@ -1043,6 +1045,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 上海第一财经,https://migu.188766.xyz/?migutoken=5822b6f050014292480817813fcd5bd0&id=dycj&type=sz
 上海第一财经,https://migu.188766.xyz/?migutoken=8a194b9a954994f9d1f2e008e67faf09&id=dycj&type=sz
 上海第一财经,https://migu.188766.xyz/?migutoken=115a6e6d5327902d23380a38ca7cf4fa&id=dycj&type=sz
+上海第一财经,https://migu.188766.xyz/?migutoken=3553e982b6fe3644115240b830042d7b&id=dycj&type=sz
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
@@ -1703,11 +1706,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=2eb2ebfc4a30475fdfc21481c15f0bd5&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=30582c84ba3d992bc78c916e1180da2d&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=9e84b5ec6e2d031b8d6f0bed0e8762a2&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=d7f5d45c3a2c710c2c23fa0437931376&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=57ae59b8ed5708ed3e49f4b30e8628dc&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=284a4486171101c7acf989d20f324667&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=25e65c9e5dfb5a8aa217ecdd934f3008&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=a404f90886b01e697dc989241bd04024&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=7d9f07c897bcded79fd6aa6036966bd7&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1715,11 +1720,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=70cdcb5b1332991508d49e7aa1fc6ecd&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=72715b0e63c76c7c0637bf42c1313c40&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=7d2b06f293d021ba9d02f2aa4aed9481&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=25a23459819c259ce4e0b9807bcb635c&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=f8ac76631ce61c4694c9caa2ff82d60c&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=fd8c4e81ad0fb13e5f27bacd5a0f740d&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=9566bb63e4a064c6ab74d1b3c299f90b&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=feceee3f57c5bbeac83d19130b19884e&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=333e9bc736b8d9d8704d491fbb11a996&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -1727,6 +1734,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=d317a6730bf12a39ac0c08b408a34222&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=3a0001defc7ab1ec61a30cb02e1f122b&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=85489c11e38626248ccc818c11545e90&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=344ff76e4bf18e868d2c279922424d83&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
@@ -2433,6 +2441,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-8.ctv
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-1.ctv
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
+经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
