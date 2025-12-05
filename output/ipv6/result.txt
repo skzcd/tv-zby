@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-05 06:40:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-05 18:46:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1721,6 +1721,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=f5064ca9b53bfc56e76d12b12fd99f38&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=bd4fc07f8470da09dba172c4d2d05636&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=84acdc88778d490a5a532aab93ae6625&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=b821c178f1e992fc0a5da29280e5b433&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1740,6 +1741,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=503778ce23a450412626f449c8e23ff3&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=1364cd24d5f1eb4aa05324e865d4e2d8&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=a99c305459ce0874c5780538d879907a&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=1001df22bf6b5b8e749591b5108caf54&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -2237,6 +2239,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
 鹤岗新闻综合,http://[2409:8087:1a01:df::4060]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+鹤岗新闻综合,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
 齐齐哈尔新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226437
 齐齐哈尔新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
